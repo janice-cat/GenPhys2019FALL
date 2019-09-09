@@ -5,14 +5,14 @@ Installation Guideline -- 09/11 class note
 + [Python](https://www.youtube.com/watch?v=ZFA7_sWln48)  
 + [VPython](https://www.youtube.com/watch?v=comdEwP7_Kc)
   
- ## Python
+ ### Python
  + 確認32, 64 位元：  
  http://esupport.trendmicro.com/solution/zh-tw/1112433.aspx  
  + Download site (**python3.6.6**): https://www.python.org/downloads/release/python-366/ 
      1. 64 bit: Windows x86-64 web-based installer
      2. 32 bit: Windows x86 web-based installer
 
-## VPython
+### VPython
  + Open cmd
     win + r
  + Go to the the python36/Scripts path
@@ -44,11 +44,11 @@ https://docs.microsoft.com/zh-tw/visualstudio/python/tutorial-working-with-pytho
 
 # Mac
 [詳細說明](https://drive.google.com/file/d/1930IZ1eq2tHB8EvnrxYtdhntrOdlqyu9/view?usp=sharing)  
-## Install xcode
+### Install xcode
 ```bash
 xcode-select --install
 ```
-## Install Homebrew
+### Install Homebrew
  + Install Homebrew
     ```bash
     ruby -e "$(curl -fsSL
@@ -58,7 +58,7 @@ xcode-select --install
     ```bash
     brew doctor
     ```
-## Python
+### Python
  + Python3 Install
     ```bash
     brew install python3
@@ -72,7 +72,7 @@ xcode-select --install
     python3
     ```
 
-## VPython
+### VPython
  + Install vpython
     ```bash
     pip3 install vpython
