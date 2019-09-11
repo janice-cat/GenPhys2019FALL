@@ -93,6 +93,7 @@ xcode-select --install
 ** 若出現permission denied: 請在有問題的指令前加sudo重試該指令
 
 # Test
+在 python shell 中 (or IDLE/jupyter notebook...)
 ```python
 from vpython import *
 sphere()
