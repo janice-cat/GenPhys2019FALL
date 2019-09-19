@@ -12,12 +12,12 @@ We will learn to solve physics problems and understand physics phenomena by mean
 + [9 assignments (TBD, 10%) + Bonus](https://github.com/janice-cat/GenPhys2019FALL/blob/master/README-en.md#assignments)  
   
 ## Contacting info  
-* Programming TA: 陳昱蓁 (Yu-Chen Chen)  
+* Programming TA: 陳昱蓁 (Yu-Chen Chen, or Janice)  
 * TA hour: Thursday 5th - 7th period  @ Rm519, CCMS & New Physics Building, NTU
 * If you have any problem:  
   1. Please come over during TA hour.  
-  2. Contact me via mail. (with the subject: [General physics] then I could put it as a priority.)
-     email address: R07222016@ntu.edu.tw  
+  2. Contact me via mail. (with the subject: [General physics] then I could put it as a priority.)  
+     :e-mail: email address: R07222016@ntu.edu.tw  
   
 ## Assignments  
 There are 9 assignments this semester.  
@@ -29,12 +29,12 @@ Please choose 2 out of 9 to film demonstrative videos and upload to youtube.
 + announce on ceiba: Each HW would be released  (SUN 21:00) 2 weeks before its deadline. As for the hw instruction, please check out the announcement on this site.  
   
 ### About hw  
-+ Please first look at Prof. Shih's instruction video (for his demonstration), with the company of homework spec (text in PDF or documentation, in English), and try to implement the hw requirement by modifying the template code. If you come into any difficulty, feel free to discuss with me. 
-+ Choose 2 out of 9 assignments to film the demo video.
-  film length: actually free (for reference: 6 minutes)
-  content: explain the **physical meaning** and **programming logic**.
-  submission: **upload to youtube, and comment the url on the first line in your turned in script.**
-  For ex: (in your source code)  
++ Please first look at Prof. Shih's instruction video (for his demonstration), with the homework spec (text in PDF or documentation here, in English), and try to implement the hw requirements by modifying the given template code. If you come into any difficulty, feel free to discuss with me. 
++ Choose 2 out of 9 assignments to film the demo video.  
+  film length: actually free (for reference: 6 minutes)  
+  content: explain the **physical meaning** and **programming logic**.  
+  submission: **upload to youtube, and comment the url on the first line in your turn-in script.**  
+  For ex: (in your source code)    
   ```python
   #https://www.youtube.com/xxxxxxxxxxxxxxxxxxxxxx
   ```
@@ -50,5 +50,5 @@ Please choose 2 out of 9 to film demonstrative videos and upload to youtube.
 ### Grading criteria  
 + 5 score scales (5pt is full score, with 1pt bonus sometimes), would announce everytime the hw is released. 
 + If any plagiarism is caught, the hw would be graded 0pt for that time.
-+ The score of the hw would be announce on ceiba. If you have any questions regarding the grading, please write a mail to me.
++ The score of the hw would be shown on ceiba. If you have any questions regarding the grading, please write me a mail.
 + I will check your understanding towards physics and programming via the films you uploaded. Therefore, **there would be punishment if one fails to submit the video. For each non submission, 1pt (semester score) is deducted.**
