@@ -189,7 +189,13 @@ Add some codes to find the following values and show the values in the end.
     ```
     Ref: VPython6's documentation （有rate函式的一些有用解釋，也有提到動畫畫面更新的頻率）  
     http://vpython.org/contents/docs/index.html  
-7. **\[Mac用戶\]** 如何在終端機上使用python?  
+ -->
+2. 解釋：  
+    + the displacement: 位移量。  
+    + the length of the entire path: 路徑長。  
+3. 請將作業上傳至ceiba作業區：  
+    + 點入“程式作業hw1”條目就可以看到繳交欄位了，直接把檔案附加上去，就ok了。記得要先"用學號登入"，否則你看不到繳交欄位。  
+4. **\[Mac用戶\]** 如何在終端機上使用python?  
     開啟終端機  
     + Interactive Shell:  
         + 進入python shell:  
@@ -204,10 +210,4 @@ Add some codes to find the following values and show the values in the end.
         + 中斷方式：直接將瀏覽器分頁關掉，或是按ctrl-c退出。  
         + 我要在哪裡寫script？  
           一般文字編輯器即可，如果你沒有，可以安裝[Sublime Text3](https://www.sublimetext.com/3)  
- -->
-2. 解釋：  
-    + the displacement: 位移量。  
-    + the length of the entire path: 路徑長。  
-3. 請將作業上傳至ceiba作業區：  
-    + 點入“程式作業hw1”條目就可以看到繳交欄位了，直接把檔案附加上去，就ok了。記得要先"用學號登入"，否則你看不到繳交欄位。  
 <!--     + 如果仍有繳交問題，請儘快寄信告知。無法解決的話，會開放同學用email繳交。   -->
