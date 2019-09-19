@@ -211,7 +211,7 @@ Add some codes to find the following values and show the values in the end.
         + Enter python shell:  
            ![python3](../graph/python3.png)  
         + 退出方式：ctrl-d退出  
-        > To evacuate: ctrl-d
+          > To evacuate: ctrl-d
     + Run with script:  
         ```bash
         cd <path_to_the_directory_of_xxx.py>
@@ -219,9 +219,9 @@ Add some codes to find the following values and show the values in the end.
         ```
         ![python3_run_script](../graph/python3_run_script.png)
         + 中斷方式：直接將瀏覽器分頁關掉，或是按ctrl-c退出。  
-        > To interupt: Close the browser (tab window), or ctrl-c.
+          > To interupt: Close the browser (tab window), or ctrl-c.
         + 我要在哪裡寫script？  
           一般文字編輯器即可，如果你沒有，可以安裝[Sublime Text3](https://www.sublimetext.com/3)  
-        > + Where to write the script?  
-        >   You can write up the script in a normal text editor. If you don't have one, you can install [Sublime Text3](https://www.sublimetext.com/3)   
+          > + Where to write the script?  
+          >   You can write up the script in a normal text editor. If you don't have one, you can install [Sublime Text3](https://www.sublimetext.com/3)   
 <!--     + 如果仍有繳交問題，請儘快寄信告知。無法解決的話，會開放同學用email繳交。   -->
