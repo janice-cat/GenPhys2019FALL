@@ -171,11 +171,11 @@ Add some codes to find the following values and show the values in the end.
     請不要用帶拋體運動公式算。我要的答案是跑過while迴圈，模擬告訴你終點值。
     + 模擬做出來的與理論值總是會有精度差異。所以如果你的答案"太精準"，助教就會去關心你的code喔～  
     + 但是非常鼓勵同學先用手算，再與模擬得出的量值做比較。  
-    > **\[Important\]** Please do not directly calculate the physics observables we question by hand!!! We hope to teach you to learn how to do computational simulation in this programming assignment. Hence, please resolve these questions by programming simulation.  
-    + For ex: If we are asking the end position of the projectile motion:
-    Please do not use the projectile formula to calculate. We want the answer after you do a for loop in your script, which is the value obtained by the simulation.
-    + The value by the simulation would deviate from the theoretical value, due to the precision issue, so if your answer is too precise, then I would regard it suspicious.
-    + But calculating by hand in advance and then comparing the answer with that from simulation is particularly encouraged.
+    > **\[Important\]** Please do not directly calculate the physics observables we question by hand!!! We hope to teach you how to do computational simulation in this programming assignment. Hence, please resolve these questions by programming simulation.  
+    > + For ex: If we are asking the end position of the projectile motion:  
+    > Please do not use the projectile formula to calculate. We want the answer after you do a for loop in your script, which is the value obtained by the simulation.  
+    > + The value by the simulation would deviate from the theoretical value, due to the precision issue, so if your answer is too precise, then I would regard it suspicious.  
+    > + But calculating by hand in advance and then comparing the answer with that from simulation is particularly encouraged.  
 <!-- 2. **\[重要\]** 請大家注意print出的物理量 **要寫單位** !!! 但因為助教這次沒有在開始時就宣佈，所以不會扣分。但請看到的同學，就順手把單位print出來吧，謝謝～  
 3. 程式執行到最後要show數值到畫面上時（使用`text`物件）會出現延遲的現象。  
     A: 這是正常狀況。如果使用`label`物件就不會有這樣的問題發生。這延遲的狀況不影響作業計分，但有興趣的同學，可以自己先研究`label`物件的使用方法（請大家善用[vpython documentation](http://www.glowscript.org/docs/VPythonDocs/index.html)，你們一個學年將和他度過）。不過label的用法我會在作業一結束之後一起說明。  
@@ -200,10 +200,11 @@ Add some codes to find the following values and show the values in the end.
     + the length of the entire path: 路徑長。  
 3. 請將作業上傳至ceiba作業區：  
     + 點入“程式作業hw1”條目就可以看到繳交欄位了，直接把檔案附加上去，就ok了。記得要先"用學號登入"，否則你看不到繳交欄位。  
-    > Please upload the hw onto ceiba:
-    + Enter item “程式作業hw1” then a blanck for submission could be seen. Please upload the file in that blanck. Remember to login before your submission, or else the blanck won't show.
+    > Please upload the hw onto ceiba:  
+    > + Enter item “程式作業hw1” then a blanck for submission could be seen. Please upload the file in that blanck. Remember to login before your submission, or else the blanck won't show.  
 4. **\[Mac用戶\]** 如何在終端機上使用python?  
-    > **\[Mac users\]** How to use python in the terminal?
+    > **\[Mac users\]** How to use python in the terminal?  
+    
     開啟終端機  
     > Open the terminal
     + Interactive Shell:  
@@ -221,6 +222,6 @@ Add some codes to find the following values and show the values in the end.
         > To interupt: Close the browser (tab window), or ctrl-c.
         + 我要在哪裡寫script？  
           一般文字編輯器即可，如果你沒有，可以安裝[Sublime Text3](https://www.sublimetext.com/3)  
-        > Where to write the script?
-          You can write up the script by normal text editor. If you don't have one, you can install [Sublime Text3](https://www.sublimetext.com/3)   
+        > + Where to write the script?  
+        >   You can write up the script in a normal text editor. If you don't have one, you can install [Sublime Text3](https://www.sublimetext.com/3)   
 <!--     + 如果仍有繳交問題，請儘快寄信告知。無法解決的話，會開放同學用email繳交。   -->
