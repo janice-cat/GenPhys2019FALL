@@ -2,7 +2,7 @@
 這個學期的普物課程將會利用電腦與程式語言視覺化的暸解物理問題與現象，同時也會要求同學完成一些程式作業。 
 
 :earth_americas: [Programming Part Policies in English](https://github.com/janice-cat/GenPhys2019FALL/blob/master/README-en.md)
-> I've done my best, please feel free to tell me if anyting unclear (or even grammar errors :sweat_smile:).
+> I've done my best, please feel free to tell me if anything is unclear to you (or even grammar errors :sweat_smile:).
   
 ## 網站資源  
 + [石明豐教授 VPhysics](http://tcjd71.wixsite.com/vpython)  
