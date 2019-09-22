@@ -176,9 +176,7 @@ Add some codes to find the following values and show the values in the end.
     > Please do not use the projectile formula to calculate. We want the answer after you do a for loop in your script, which is the value obtained by the simulation.  
     > + The value by the simulation would deviate from the theoretical value, due to the precision issue, so if your answer is too precise, then I would regard it suspicious.  
     > + But calculating by hand in advance and then comparing the answer with that from simulation is particularly encouraged.  
-<!-- 2. **\[重要\]** 請大家注意print出的物理量 **要寫單位** !!! 但因為助教這次沒有在開始時就宣佈，所以不會扣分。但請看到的同學，就順手把單位print出來吧，謝謝～  
-3. 程式執行到最後要show數值到畫面上時（使用`text`物件）會出現延遲的現象。  
-    A: 這是正常狀況。如果使用`label`物件就不會有這樣的問題發生。這延遲的狀況不影響作業計分，但有興趣的同學，可以自己先研究`label`物件的使用方法（請大家善用[vpython documentation](http://www.glowscript.org/docs/VPythonDocs/index.html)，你們一個學年將和他度過）。不過label的用法我會在作業一結束之後一起說明。  
+<!-- 
 4. 想要用一個`text`物件或`label`物件顯示完2 (or 3)行。  
     A: 可以用換行符`\n`做到。  
     作業一結束之後，會教大家一些實用的字串小技巧。  
@@ -224,4 +222,10 @@ Add some codes to find the following values and show the values in the end.
           一般文字編輯器即可，如果你沒有，可以安裝[Sublime Text3](https://www.sublimetext.com/3)  
           > + Where to write the script?  
           >   You can write up the script in a normal text editor. If you don't have one, you can install [Sublime Text3](https://www.sublimetext.com/3)   
+5. 程式執行到最後要show數值到畫面上時（使用`text`物件）會出現延遲的現象。  
+    > The program would lag a bit when displaying the value on the screen (if the `text` object is used)  
+    
+    A: 這是正常狀況。如果使用`label`物件就不會有這樣的問題發生。這延遲的狀況不影響作業計分，但有興趣的同學，可以自己先研究`label`物件的使用方法（請大家善用[vpython documentation](http://www.glowscript.org/docs/VPythonDocs/index.html)，你們一個學年將和他度過）。  
+      > A: This scenario is expected. But if you use the `label` object, you won't get into this kind of trouble. This lagging sitution won't affect the final grading, but if you want to learn more, you are encouraged to study the usage of the `label` object on your own first. (You can refer to the [vpython documentation](http://www.glowscript.org/docs/VPythonDocs/index.html), which is a website you'll spend a whole school year on)  
+    
 <!--     + 如果仍有繳交問題，請儘快寄信告知。無法解決的話，會開放同學用email繳交。   -->
