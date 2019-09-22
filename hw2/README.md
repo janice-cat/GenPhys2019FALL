@@ -6,10 +6,10 @@
 + [HW pdf](https://drive.google.com/file/d/1PzYAQwMe_Ci4YDRX6qLVanbTTKan67Hm/view)  
 
 ## Contents
-+ [Bouncing Ball](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw2#i-bouncing-ball)  
-+ [Graph](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw2#ii-graph)  
-+ [Air_drag](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw2#iii-air_drag)  
-+ [Homework](https://github.com/janice-cat/GenPhys2018FALL/tree/master/hw2#iv-homework)  
++ [Bouncing Ball](https://github.com/janice-cat/GenPhys2019FALL/tree/master/hw2#i-bouncing-ball)  
++ [Graph](https://github.com/janice-cat/GenPhys2019FALL/tree/master/hw2#ii-graph)  
++ [Air_drag](https://github.com/janice-cat/GenPhys2019FALL/tree/master/hw2#iii-air_drag)  
++ [Homework](https://github.com/janice-cat/GenPhys2019FALL/tree/master/hw2#iv-homework)  
 
 ## I. Bouncing Ball:
 
