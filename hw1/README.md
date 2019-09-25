@@ -145,6 +145,7 @@ You need to hand in your homework with a filename extension ‘.py’. If you ar
   
 ### MUST (5%)  
 Modify the Free Fall program. Let the ball’s initial position = vec(-15, 5, 0) and with initial velocity = vec (6, 8, 0). Add at the center of the ball an arrow, which moves along with the ball and whose length is proportional (proportional constant by your choice) to and parallel to the velocity vector of the ball. In the end, show the displacement of the ball for the entire flight.  
+<img src="https://latex.codecogs.com/gif.latex?{\color{Red}&space;\text{Please&space;write&space;vector&space;for&space;the&space;displacement.}}" title="{\color{Red} \text{Please write vector for the displacement.}}" />
 
 ### BONUS (1%)  
 Add some codes to find the following values and show the values in the end.  
