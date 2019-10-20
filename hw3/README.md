@@ -129,7 +129,7 @@ First generating two lists,
 sizes = [0.06, 0.04]     # for balls’ sizes 
 ms = [0.2, 0.12]         # for balls’ mass
 ```
-Instead of hanging one ball on the spring to the ceiling, let the two balls connect together horizontally by the spring. Ignore the gravity and simulate the oscillation of the two-ball system in x axis. The spring constant `L` and length `k` are 0.5 and 15, respectively. Both balls are initially at rest with their positions separated by `1.1*L`. Print the period of the oscillation. (not by formula)  
+Instead of hanging one ball on the spring to the ceiling, let the two balls connect together horizontally by the spring. Ignore the gravity and simulate the oscillation of the two-ball system in x axis. The spring length `L` and constant `k` are 0.5 and 15, respectively. Both balls are initially at rest with their positions separated by `1.1*L`. Print the period of the oscillation. (not by formula)  
 
 ### HW submission (PLZ be particularly aware!!)
 
