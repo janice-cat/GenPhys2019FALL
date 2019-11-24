@@ -150,6 +150,7 @@ Run your simulation, you will at first not see the earth and moon because as com
 
 Note: Now you have the orbits of the moon around the earth and the related precession, and the orbit of the earth around the sun. Combining these two will allow you to calculate the timing for moon eclipse and sun eclipse.  
 
+<a href="https://www.codecogs.com/eqnedit.php?latex={\color{Red}&space;\text{Please&space;submit&space;a&space;single&space;script&space;with&space;file&space;extension&space;`.py'.}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{\color{Red}&space;\text{Please&space;submit&space;a&space;single&space;script&space;with&space;file&space;extension&space;`.py'.}}" title="{\color{Red} \text{Please submit a single script with file extension `.py'.}}" /></a>
 
 ### Deadline  
 `11/24 SUN 22:00`  
