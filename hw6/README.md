@@ -149,9 +149,9 @@ homework.zip
 
 ### Grading Criteria (For Reference)    
 Must  
-    0: No Submission.
-    1: The program is totally not runnable.
-    2: The results (curve, omega) are not correct.
-    3: The results (curve, omega) are not so correct.
-    4: Wrong with the power plot scale.
-    5: You complete all the requirements, and they are all correct.
+    0: No Submission.  
+    1: The program is totally not runnable.  
+    2: The results (curve, omega) are not correct.  
+    3: The results (curve, omega) are not so correct.  
+    4: Wrong with the power plot scale.  
+    5: You complete all the requirements, and they are all correct.  
