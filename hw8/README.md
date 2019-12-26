@@ -195,7 +195,7 @@ homework.zip
 
 
 ### Deadline
-`1/10 SUN 22:00`  
+`1/10 FRI 22:00`  
 
 ### Grading Criteria (For Reference)    
 Must  
