@@ -182,7 +182,7 @@ avg_com_K : avg_v_K : avg_v_P : avg_r_K = 3 (green) : 1 (red) : 1(purple) : 2(bl
 ### HW submission (PLZ be particularly aware!!)
 
 + Please upload a `zip` file (a compressed file) to CEIBA. Note that the filename extension should be `.zip`, and other format (e.g. `.rar` , `.tar` ...) is not allowed!!  
-+ In the zip file, there will be **a directory whose name is your student ID.** The directory should contain 1 or 2 python scripts. Please name the script of must part: `must.py`, and bonus part: `optional.py`.  
++ In the zip file, there will be **a directory whose name is your student ID.** The directory should contain 1 or 2 python scripts. Please name the script of must part: `must.py`, and `diatomic.py`.  
 + Please also upload the `zip` file, even if you only plan to submit `must.py`. (This would help ease the burden for me to grade the hw. Thanks for the cooperation \~\~ :grin:)  
 
 Example of submitted format: 
@@ -190,7 +190,7 @@ Example of submitted format:
 homework.zip
 └── r07222016
     ├── must.py
-    └── optional.py
+    └── diatomic.py
 ```
 
 
